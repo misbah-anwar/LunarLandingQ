@@ -1,7 +1,7 @@
 # Lunar Landing Using Deep Q-Learning  
 
 Refer Gymnasium Documentation for the RL approach  
-(https://gymnasium.farama.org/)
+(https://gymnasium.farama.org/environments/box2d/lunar_lander/)
 
 Here's my Lunar Landing!
 
